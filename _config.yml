@@ -1,7 +1,7 @@
 name: Block Island Brands
 favicon: null
-layout_spectrum: 0.6372923017479479
-typography_spectrum: 0.41822219151072204
+layout_spectrum: 0.2461
+typography_spectrum: 0.06007
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.5537494102027267
-  lightness: 0.07348667574115098
+    - '#f8f6f9'
+    - '#e5cc00'
+    - '#432e55'
+    - '#bd398d'
+    - '#eb8abd'
+  brandStrength: 0.0625
+  lightness: 1
   saturation: 0.11084745242260396
   rhythmicContrast: 0.46260540396906435
 purpose: []
