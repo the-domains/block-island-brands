@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: null
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: ''
-datePublished: '2016-03-29T14:36:28.622Z'
-dateModified: '2016-03-29T14:33:45.207Z'
+description: "Products inspired by the natural surroundings of RI's Ocean Jewel."
+datePublished: '2016-03-29T14:49:30.583Z'
+dateModified: '2016-03-29T14:47:55.808Z'
 title: "Block Island Brands' Block Soap"
 author: []
 sourcePath: _posts/2016-03-24-block-island-brands.md
@@ -18,12 +19,11 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: block-island-brands/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Block Island Brands' Block Soap
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9d53f57c-97c3-4b4c-b88c-68a0ac7fd178.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4ab41dc52eafcdb3a7025f44742cc5706407b34b.jpg)
 
 ## Block Soap, handcrafted artisan soaps for mind and body. Inspired by the fragrances of Block Island, RI and made is the USA with Olive & Coconut oils and Shea Butter.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/44291915-69de-4cbf-909f-821244150849.jpg)
@@ -32,3 +32,4 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c13d7a33-081e-430e-bbb9-23888113f691.jpg)
 
 ## Liquid soap in 3 fragrances
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/67ad5481-c617-4b55-bfe8-02b86bc12249.jpg)
