@@ -1,14 +1,13 @@
 ---
-inFeed: true
-hasPage: false
+inFeed: false
+hasPage: true
 inNav: false
-isBasedOnUrl: null
 inLanguage: null
 starred: true
 keywords: []
-description: "Products inspired by the natural surroundings of RI's Ocean Jewel."
-datePublished: '2016-04-01T12:56:20.296Z'
-dateModified: '2016-04-01T12:55:12.144Z'
+description: "Products inspired by the natural fragrances of RI's Ocean Jewel."
+datePublished: '2016-04-01T13:29:20.740Z'
+dateModified: '2016-04-01T13:29:02.699Z'
 title: "Block Island Brands' Block Soap"
 author: []
 sourcePath: _posts/2016-03-24-block-island-brands.md
@@ -19,6 +18,7 @@ publisher:
   domain: null
   url: null
   favicon: null
+url: block-island-brands-block-soap/index.html
 _type: Blurb
 
 ---
@@ -28,8 +28,7 @@ _type: Blurb
 ## Block Soap, handcrafted artisan soaps for mind and body. Inspired by the natural fragrances of Block Island, RI and made is the USA with Olive & Coconut oils and Shea Butter.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/44291915-69de-4cbf-909f-821244150849.jpg)
 
-## Bar soap in 6 fragrances
+## Bar soaps in 6 fragrances; West Beach Bayberry, Scotch Beach Honeysuckle, Mansion Beach Plum Rose, Crescent Beach Lavender, New Harbor Unscented Oatmeal, Black Rock Egyptian Musk
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c13d7a33-081e-430e-bbb9-23888113f691.jpg)
 
-## Liquid soap in 3 fragrances
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/67ad5481-c617-4b55-bfe8-02b86bc12249.jpg)
+## Liquid soaps in 3 fragrances; West Beach Bayberry, Crescent Beach Lavender, Scotch Beach Honeysuckle ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/67ad5481-c617-4b55-bfe8-02b86bc12249.jpg)
