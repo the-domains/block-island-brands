@@ -1,7 +1,7 @@
 name: Block Island Brands
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.14644
+typography_spectrum: 0.35982
 title: "Products inspired by the natural surroundings of RI's Ocean Jewel."
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#f8f6f9'
-    - '#e5cc00'
-    - '#432e55'
-    - '#bd398d'
-    - '#eb8abd'
+    - '#ffffff'
+    - '#b9bcc1'
+    - '#782472'
+    - '#6c5997'
+    - '#64a06a'
   brandStrength: 1
   lightness: 1
   saturation: 0.5
