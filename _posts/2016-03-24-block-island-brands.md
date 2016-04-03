@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Products inspired by the natural fragrances of RI's Ocean Jewel."
-datePublished: '2016-04-01T13:29:20.740Z'
-dateModified: '2016-04-01T13:29:02.699Z'
+datePublished: '2016-04-03T12:37:26.605Z'
+dateModified: '2016-04-02T19:31:53.535Z'
 title: "Block Island Brands' Block Soap"
 author: []
 sourcePath: _posts/2016-03-24-block-island-brands.md
